@@ -1,0 +1,28 @@
+{
+  "task_id": "tsk_img_01M5181HWABYKK8VZ3YSVE7GC9",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "billing": null,
+  "request": {
+    "model": "gemini-nano-banana-2.1",
+    "prompt": "An original cozy bay-window reading room with a curved cream sofa, pale oak shelves, a ceramic blue vase and a small green plant, soft early morning light, architectural interior photograph, no text, no logos, square frame.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    }
+  },
+  "original_output": "examples/gemini-nano-banana-2-1.original.jpg",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "An original cozy bay-window reading room with a curved cream sofa, pale oak shelves, a ceramic blue vase and a small green plant, soft early morning light, architectural interior photograph, no text, no logos, square frame.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "sha256": "8dc2387a28355e30b52a5ce5ae2a11ad44c0f9b8546a2e70db91c43fe72b294b",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

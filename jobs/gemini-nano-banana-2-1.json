@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gemini-nano-banana-2.1",
+  "prompt": "An original cozy bay-window reading room with a curved cream sofa, pale oak shelves, a ceramic blue vase and a small green plant, soft early morning light, architectural interior photograph, no text, no logos, square frame.",
+  "size": "1024x1024",
+  "run_id": "1016-ac-2",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "evidence": "evidence/gemini-nano-banana-2-1.json"
+}

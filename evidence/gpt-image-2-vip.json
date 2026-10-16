@@ -1,0 +1,27 @@
+{
+  "task_id": "tsk_img_01M5182HZ18RMMF7G3EG1XDVFM",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "An original cozy bay-window reading room with a curved cream sofa, pale oak shelves, a ceramic blue vase and a small green plant, soft early morning light, architectural interior photograph, no text, no logos, square frame.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "An original cozy bay-window reading room with a curved cream sofa, pale oak shelves, a ceramic blue vase and a small green plant, soft early morning light, architectural interior photograph, no text, no logos, square frame.",
+  "output": "examples/gpt-image-2-vip.png",
+  "sha256": "98b29fa9942577a4f6ed7e64175118309f0cb2b7e1257f5e933fc2553fc199fb",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

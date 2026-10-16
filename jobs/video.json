@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "MiniMax-H3",
+  "duration": 5,
+  "resolution": "768p",
+  "prompt": "Slow gentle camera push into the original bay-window room, sunlight slowly moves across the cream sofa, leaves gently sway, no text.",
+  "image": "https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-ai-canvas-toapis/main/examples/gpt-image-2-vip.png",
+  "run_id": "my-explicit-video-run",
+  "output": "demo/my-video.mp4",
+  "evidence": "evidence/my-video.json"
+}

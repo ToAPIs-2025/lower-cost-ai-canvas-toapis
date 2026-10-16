@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "An original cozy bay-window reading room with a curved cream sofa, pale oak shelves, a ceramic blue vase and a small green plant, soft early morning light, architectural interior photograph, no text, no logos, square frame.",
+  "size": "1024x1024",
+  "run_id": "1016-ac-1",
+  "output": "examples/gpt-image-2-5-flare.png",
+  "evidence": "evidence/gpt-image-2-5-flare.json"
+}
