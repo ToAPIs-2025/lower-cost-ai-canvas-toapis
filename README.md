@@ -1,5 +1,10 @@
 # Lower-cost AI Canvas API asset examples
 
+<!-- TOAPIS-PROJECT-LINKS-20261022 -->
+[ToAPIs homepage](https://home.toapis.com/Tauri) · [Model pricing](https://pricing.toapis.com/Tauri)
+<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+
+
 
 <!-- TOAPIS-MODELS-20261020 -->
 ## Model support and prices · 2026-10-20
@@ -73,7 +78,7 @@ October 16, 2026: 3 real images and 1 real video. Confirmed charge for these com
 
 
 
-[ToAPIs · model pricing and setup](https://go2v.toapis.com/ac16ge)
+[ToAPIs · model pricing and setup](https://pricing.toapis.com/Tauri)
 
 
 

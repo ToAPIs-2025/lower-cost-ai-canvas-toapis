@@ -1,5 +1,10 @@
 # 更低成本的 AI Canvas API素材方案
 
+<!-- TOAPIS-PROJECT-LINKS-20261022 -->
+[ToAPIs 官网首页](https://home.toapis.com/Tauri) · [模型价格](https://pricing.toapis.com/Tauri)
+<!-- /TOAPIS-PROJECT-LINKS-20261022 -->
+
+
 
 <!-- TOAPIS-MODELS-20261020 -->
 ## 模型与价格更新 · 2026-10-20
@@ -73,7 +78,7 @@ gpt-image-2(VIP) **$0.0019/image 起**；本表 low/1K 实测档位为 **$0.0019
 
 
 
-[ToAPIs · 对应模型价格与接入](https://go2v.toapis.com/ac16gc)
+[ToAPIs · 对应模型价格与接入](https://pricing.toapis.com/Tauri)
 
 
 
